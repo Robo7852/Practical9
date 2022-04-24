@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practical9</string>
+
+    <string-array name="Courses">
+    <item>B.Com(Hons)</item>
+    <item>B.Sc.(Hons) Computer Science</item>
+    <item>BBA</item>
+    <item>BMS</item>
+        <item>BA(Hons) Punjabi</item>
+
+    </string-array>
+
+</resources>
